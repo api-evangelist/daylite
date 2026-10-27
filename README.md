@@ -64,5 +64,30 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Daylite is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://daylite.app/
+Daylite provides an award‑winning CRM solution for Mac users, combining sales pipeline, project tracking, and contact management in a single application. It offers a robust API that lets developers automate workflows, create custom reports, and integrate Daylite with other tools. The platform targets small businesses seeking a unified, Mac‑focused CRM with extensive customization and integration capabilities.
+
+**Areas:** Company · CRM · Mac · Small Business · Integration
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://daylite.app/)
+- [Documentation](https://developer.daylite.app/reference/)
+- [Getting started](https://developer.daylite.app/reference/getting-started)
+- [API reference](https://developer.daylite.app/reference/)
+- [Pricing](https://www.daylite.app/pricing/)
+- [Sign up](https://www.daylite.app/signup/)
+- [Support](https://www.daylite.app/help/)
+- [Changelog](https://developer.daylite.app/changelog)
+- [Blog](https://www.daylite.app/blog/)
+- [Security](https://www.daylite.app/security/)
+- [Terms of service](https://www.daylite.app/terms/)
+- [Privacy policy](https://www.daylite.app/privacy/)
+- [Status](https://status.daylite.app/)
+
+**APIs profiled:** 28
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/daylite/](https://apis.io/providers/daylite/).
